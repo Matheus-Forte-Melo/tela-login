@@ -16,13 +16,13 @@
         height: 100%;
         position: absolute;
         left: 55%;
+    }
 
-        border-bottom-right-radius: 10px;
-        border-top-left-radius: 0px;
-
+    .botao {
+        margin-top: 10px;
+        height: 55px;
     }
 }
-
 
 @media screen and (min-width: 800px) and (max-width: 1209px) {
     section {
@@ -44,8 +44,5 @@
     div#imagem {
         height: 100%;
         width: 35%;
-
-        
-
     }
 }
