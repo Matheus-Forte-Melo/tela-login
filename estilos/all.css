@@ -7,7 +7,7 @@
 
     div#formulario {
         text-align: center;
-        width: 50%;
+        width: 52.3%;
         height: 100%;
     }
 
@@ -16,6 +16,7 @@
         height: 100%;
         position: absolute;
         left: 55%;
+        border-radius: 0px;
     }
 
     .botao {
@@ -24,7 +25,7 @@
     }
 }
 
-@media screen and (min-width: 800px) and (max-width: 1209px) {
+@media screen and (min-width: 800px) and (max-width: 1219px) {
     section {
         width: 70%;
         max-width: 750px;
@@ -44,5 +45,6 @@
     div#imagem {
         height: 100%;
         width: 35%;
+        border-radius: 0px;
     }
 }
